@@ -1,0 +1,4 @@
+F:\tmp\testprod\Test\TestConsoleApplication\TestBizModels\bin\Debug\TestBizModels.dll
+F:\tmp\testprod\Test\TestConsoleApplication\TestBizModels\bin\Debug\TestBizModels.pdb
+F:\tmp\testprod\Test\TestConsoleApplication\TestBizModels\obj\Debug\TestBizModels.dll
+F:\tmp\testprod\Test\TestConsoleApplication\TestBizModels\obj\Debug\TestBizModels.pdb
