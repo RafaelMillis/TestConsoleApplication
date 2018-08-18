@@ -1,0 +1,16 @@
+F:\tmp\testprod\Test\TestConsoleApplication\TestConsoleApplication\bin\Debug\TestConsoleApplication.exe.config
+F:\tmp\testprod\Test\TestConsoleApplication\TestConsoleApplication\bin\Debug\TestConsoleApplication.exe
+F:\tmp\testprod\Test\TestConsoleApplication\TestConsoleApplication\bin\Debug\TestConsoleApplication.pdb
+F:\tmp\testprod\Test\TestConsoleApplication\TestConsoleApplication\obj\Debug\TestConsoleApplication.exe
+F:\tmp\testprod\Test\TestConsoleApplication\TestConsoleApplication\obj\Debug\TestConsoleApplication.pdb
+F:\tmp\testprod\Test\TestConsoleApplication\TestConsoleApplication\bin\Debug\TestBizModels.dll
+F:\tmp\testprod\Test\TestConsoleApplication\TestConsoleApplication\bin\Debug\TestBLL.dll
+F:\tmp\testprod\Test\TestConsoleApplication\TestConsoleApplication\bin\Debug\TestBizModels.pdb
+F:\tmp\testprod\Test\TestConsoleApplication\TestConsoleApplication\bin\Debug\TestBLL.pdb
+F:\tmp\testprod\Test\TestConsoleApplication\TestConsoleApplication\obj\Debug\TestConsoleApplication.csprojResolveAssemblyReference.cache
+F:\tmp\testprod\Test\TestConsoleApplication\TestConsoleApplication\bin\Debug\TestDAL.dll
+F:\tmp\testprod\Test\TestConsoleApplication\TestConsoleApplication\bin\Debug\EntityFramework.dll
+F:\tmp\testprod\Test\TestConsoleApplication\TestConsoleApplication\bin\Debug\TestDAL.pdb
+F:\tmp\testprod\Test\TestConsoleApplication\TestConsoleApplication\bin\Debug\EntityFramework.xml
+F:\tmp\testprod\Test\TestConsoleApplication\TestConsoleApplication\bin\Debug\EntityFramework.SqlServer.dll
+F:\tmp\testprod\Test\TestConsoleApplication\TestConsoleApplication\bin\Debug\EntityFramework.SqlServer.xml
