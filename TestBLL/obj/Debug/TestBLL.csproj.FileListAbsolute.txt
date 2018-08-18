@@ -1,0 +1,11 @@
+F:\tmp\testprod\Test\TestConsoleApplication\TestBLL\bin\Debug\TestBLL.dll
+F:\tmp\testprod\Test\TestConsoleApplication\TestBLL\bin\Debug\TestBLL.pdb
+F:\tmp\testprod\Test\TestConsoleApplication\TestBLL\bin\Debug\TestBizModels.dll
+F:\tmp\testprod\Test\TestConsoleApplication\TestBLL\bin\Debug\TestDAL.dll
+F:\tmp\testprod\Test\TestConsoleApplication\TestBLL\bin\Debug\TestBizModels.pdb
+F:\tmp\testprod\Test\TestConsoleApplication\TestBLL\bin\Debug\TestDAL.pdb
+F:\tmp\testprod\Test\TestConsoleApplication\TestBLL\obj\Debug\TestBLL.csprojResolveAssemblyReference.cache
+F:\tmp\testprod\Test\TestConsoleApplication\TestBLL\obj\Debug\TestBLL.dll
+F:\tmp\testprod\Test\TestConsoleApplication\TestBLL\obj\Debug\TestBLL.pdb
+F:\tmp\testprod\Test\TestConsoleApplication\TestBLL\bin\Debug\EntityFramework.dll
+F:\tmp\testprod\Test\TestConsoleApplication\TestBLL\bin\Debug\EntityFramework.xml
